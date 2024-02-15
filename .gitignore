@@ -1,0 +1,11 @@
+
+# server
+node_modules
+dist
+dist-ssr
+*.local
+
+# web
+web/node_modules
+web/dist
+web/dist-ssr
